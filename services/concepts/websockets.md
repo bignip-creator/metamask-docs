@@ -1,4 +1,4 @@
----
+---newPendingTransaction
 description: WebSockets conceptual information.
 sidebar_position: 7
 ---
